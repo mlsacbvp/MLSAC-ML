@@ -1,5 +1,9 @@
 # Hate and Offensive Tweets Identification
 
+## Aim
+The aim of this project is to create a model that identifies hate and offensive tweets and also classifies those hate/offensive tweets according to the kind of content they contain.
+The dataset used is the HASOC 2019 English dataset.
+
 ## Abstract
 
 Toxic online content has become a major issue in today’s world due to an exponential increase in the use of the internet by people of different cultures and educational backgrounds. Differentiating hate speech and offensive language is a key challenge in the automatic detection of toxic text content.
